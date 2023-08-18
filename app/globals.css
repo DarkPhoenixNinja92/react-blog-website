@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.prev-txt {
+    left: 17vw;
+}
+
+.Footer {
+    left: 47vw;
+}
