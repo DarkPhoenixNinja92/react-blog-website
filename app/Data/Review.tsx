@@ -1,4 +1,4 @@
-export default [
+export const Review = [
     {
         id: 0,
         reviewer: 'Joe Cobb',
@@ -71,4 +71,4 @@ export default [
         +"ut morbi tincidunt. Nisl pretium fusce id velit ut tortor pretium viverra. Venenatis a condimentum vitae sapien pellentesque habitant morbi. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Neque sodales ut etiam sit."
         +"Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Feugiat nisl pretium fusce id. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Dui accumsan sit amet nulla. Urna id volutpat lacus laoreet non curabitur gravida."
     }
-]
+];
